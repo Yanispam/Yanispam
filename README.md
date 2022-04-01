@@ -3,8 +3,6 @@
 
 - 🌱 J'apprends actuellement **HTML, CSS, JS, PHP, MYSQL**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mmi21a12.mmi-troyes.fr](mmi21a12.mmi-troyes.fr)
-
 - 📫 Comment me joindre **yanis.pamadou-ngonda@etudiant.univ-reims.fr**
 
 <h3 align="left">Connect with me:</h3>
